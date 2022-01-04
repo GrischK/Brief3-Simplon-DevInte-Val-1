@@ -1,7 +1,9 @@
 # Brief 3 : Réaliser le site du blogeur Squedrong
 
 ## Description rapide
+Projet de groupe dans le cadre de la formation de **Développeur Intégrateur d'Applications Web**.
 
+## Le projet
 Notre agence web a été contactée afin de réaliser la nouvelle version du blog du célèbre blogueur Squedrong.
 
 ## Contexte
