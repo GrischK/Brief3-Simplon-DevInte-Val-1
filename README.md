@@ -1,4 +1,3 @@
-
 # Brief 3 : Réaliser le site du blogeur Squedrong
 
 ## Description rapide
@@ -16,11 +15,6 @@ Le client demande explicitement l'utilisation de la police d'écriture "Abril Fa
 Voici la maquette de la page d'accueil [ici](https://github.com/GrischK/Brief3-Simplon-DevInte-Val-1/blob/main/Ressources/Blog-accueil.pdf) et celle de la page d'un article [ici](https://github.com/GrischK/Brief3-Simplon-DevInte-Val-1/blob/main/Ressources/Blog-post.pdf).
 
 Le client nous laisse libre de réaliser les pages "À propos" et "Contact" comme nous le souhaitons, tant que la charte graphique est respectée et que le tout reste cohérent.
-
-## L'équipe
-- Grischka GORSKI : Chef de projet
-- Léandre BUGHIN : Développeur Intégrateur d'Applications Web
-- Bastian OLIVIER : Développeur Intégrateur d'Applications Web
 
 ## Consignes
 
@@ -57,4 +51,48 @@ Le client nous laisse libre de réaliser les pages "À propos" et "Contact" comm
 -   [Flaticon](https://www.flaticon.com/fr/) : Icones libres.
 -   [CSS Grid](https://www.youtube.com/watch?v=2H602-zG62w) : Cours sur les grilles CSS
 -   [Flexbox](https://www.youtube.com/watch?v=LNqBKTeeiWo) : Cours sur les Flexbox
+
+## L'équipe
+- Grischka GORSKI : Chef de projet
+- Léandre BUGHIN : Développeur Intégrateur d'Applications Web
+- Bastian OLIVIER : Développeur Intégrateur d'Applications Web
+
+## Liste des tâches 
+
+1. Création du projet sur GitHub et gestion des collaborateurs
+2. Création de tableau Trello pour la gestion de projet
+3. Répartition des tâches
+4. Structuration des maquettes avec les balises HTML
+5. Codages des 4 pages HTML selon la structure pré-établie dans les maquettes:
+	- Accueil
+	- Post
+	- Contact
+	- A propos
+6. Codage du CSS 
+	- XX
+	- XX
+	- XX
+7. Tests de fonctionnalité
+
+## Répartition des tâches
+
+- Grischka :
+	1. Création du projet sur GitHub et gestion des collaborateurs
+	2. Création de tableau Trello pour la gestion de projet
+	3. Répartition des tâches
+	4. Tests de fonctionnalité
+	
+- Léandre :
+	1. Structuration des maquettes avec les balises HTML
+	2. Codage pages :
+		- **Accueil**
+		- **A propos**
+	3. Codage du CSS
+	
+- Bastian :
+	1. Codage pages :
+		- **Post**
+		- **Contact**
+	2. Codage du CSS
+	
 
