@@ -63,11 +63,12 @@ Le client nous laisse libre de réaliser les pages "À propos" et "Contact" comm
 2. Création de tableau Trello pour la gestion de projet
 3. Répartition des tâches
 4. Structuration des maquettes avec les balises HTML
-5. Codages des 4 pages HTML selon la structure pré-établie dans les maquettes:
-	- Accueil
-	- Post
-	- Contact
-	- A propos
+5. Maquettage des pages **Contact** et **A propos**
+6. Codages des 4 pages HTML selon la structure pré-établie dans les maquettes:
+	- **Accueil**
+	- **Post**
+	- **Contact**
+	- **A propos**
 6. Codage du CSS 
 	- XX
 	- XX
@@ -80,7 +81,8 @@ Le client nous laisse libre de réaliser les pages "À propos" et "Contact" comm
 1. Création du projet sur GitHub et gestion des collaborateurs
 2. Création de tableau Trello pour la gestion de projet
 3. Répartition des tâches
-4. Tests de fonctionnalité
+4. Maquettage des pages **"Contact"** et **"A propos"**
+5. Tests de fonctionnalité
 	
 - Léandre :
 1. Structuration des maquettes avec les balises HTML
