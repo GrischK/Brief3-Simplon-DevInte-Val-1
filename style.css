@@ -13,4 +13,78 @@ header ul{
 
 li{
     padding-left: 10px;
+    color: gray;
+}
+
+a{
+    text-decoration: none;
+}
+
+#purple_nav_link{
+    color: indigo;
+}
+
+a:visited{
+    color:gray;
+}
+
+#purple_nav_link :visited{
+    color:indigo;
+}
+
+a:hover{
+    font-weight:bold;
+}
+
+main{
+    width: 1100px;
+    margin:0 auto;
+}
+
+h1{
+    color:#D05270;
+}
+
+h2{
+    color: gray;
+}
+
+#article_top{
+    display: flex;
+    width: 1100px;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+
+#boy_pic{
+    height: 300px;
+}
+
+#article_top p{
+    width:650px;
+    text-align: justify;
+}
+
+#reseaux{
+    width: 650px;
+}
+
+#reseaux ul{
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#reseaux img{
+    width: 200px;
+}
+
+#reseaux li{
+    padding-left: 0;
+    padding-right: 20px;
+}
+
+#reseaux li:nth-last-child(1){
+    padding-right: 0px;
 }
