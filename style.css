@@ -61,15 +61,30 @@ h2{
 }
 
 #article_top p{
-    width:500px;
+    width:650px;
     text-align: justify;
+}
+
+#reseaux{
+    width: 650px;
 }
 
 #reseaux ul{
     display: flex;
     list-style: none;
+    margin: 0;
+    padding: 0;
 }
 
 #reseaux img{
     width: 200px;
+}
+
+#reseaux li{
+    padding-left: 0;
+    padding-right: 20px;
+}
+
+#reseaux li:nth-last-child(1){
+    padding-right: 0px;
 }
