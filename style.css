@@ -18,6 +18,7 @@ li{
 
 a{
     text-decoration: none;
+    color: gray;
 }
 
 #purple_nav_link{
@@ -114,4 +115,20 @@ h3 + p{
 
 h3{
     color:#D05270 ;
+    font-size: ;
+}
+
+article h2{
+    font-size: 12px;
+}
+
+article em{
+    color:#D05270 ;
+    text-decoration: underline;
+    font-style: normal;
+}
+
+article h4{
+    color:#D05270 ;
+    font-style: normal;
 }
