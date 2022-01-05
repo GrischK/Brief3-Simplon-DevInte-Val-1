@@ -79,11 +79,11 @@ Le client nous laisse libre de réaliser les pages "À propos" et "Contact" comm
 
 ## Répartition des tâches
 
-| Grischka  | Léandre| Bastian |
+| Grischka | Léandre &nbsp;&nbsp;&nbsp; | Bastian &nbsp;&nbsp;&nbsp; |
 | :---------- |:----------:| ----------:|
-|  Création du projet sur GitHub et gestion des collaborateurs |   Structuration des maquettes avec les balises HTML        |  Codage pages : **Post** et **Contact** |
-| Rédaction du README  | Codage des pages : **Accueil** et **A propos**|   Codage du CSS |
-| Création de tableau Trello pour la gestion de projet | Codage du CSS          |     |
+| Création du projet sur GitHub et gestion des collaborateurs | Structuration des maquettes avec les balises HTML | Codage pages : **Post** et **Contact** |
+| Rédaction du README | Codage des pages : **Accueil** et **A propos**| Codage du CSS |
+| Création de tableau Trello pour la gestion de projet | Codage du CSS |     |
 |Répartition des tâches| | |
 |Tests de fonctionnalité
 ```
