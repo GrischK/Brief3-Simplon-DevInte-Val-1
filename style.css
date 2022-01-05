@@ -1,0 +1,13 @@
+#design_menu{
+    display: flex;
+}
+
+li{
+    padding-left: 10px;
+    list-style: none;
+}
+
+header{
+    display: flex;
+    align-items: center;
+}
