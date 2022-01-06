@@ -11,6 +11,16 @@ header ul{
     list-style: none;
 }
 
+#logo_header{
+    height: 100px; 
+    width: 100px;
+}
+
+#logo_header img{
+    object-fit: cover;
+    height: 100%;
+}
+
 li{
     padding-left: 10px;
     color: gray;
