@@ -98,7 +98,9 @@ h2{
 }
 
 #grille img{
-    width: 100px;
+    object-fit: scale-down;
+    height: 400px; 
+    width: 1fr;
 }
 
 #grille p{
