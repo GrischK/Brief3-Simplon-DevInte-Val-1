@@ -65,7 +65,13 @@ h1{
 }
 
 h2{
-    color: gray;
+    color: indigo;
+    font-size: 20px;
+}
+
+h4{
+    color: #D05270;
+    font-size: 24px;
 }
 
 #article_top{
