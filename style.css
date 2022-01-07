@@ -121,6 +121,14 @@ h4{
     width: 1100px;
 }
 
+#grille h2{
+    color: #414342;
+}
+
+#grille h3{
+    color: #414342;
+}
+
 #grille p{
     font-size: 13px;
 }
