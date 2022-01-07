@@ -74,7 +74,7 @@ h4{
     font-size: 24px;
 }
 
-#article_top{
+.article_top{
     display: flex;
     width: 1100px;
     margin: 0 auto;
@@ -85,7 +85,7 @@ h4{
     height: 300px;
 }
 
-#article_top p{
+.article_top p{
     width:650px;
     text-align: justify;
 }
