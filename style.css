@@ -92,6 +92,15 @@ h4{
     justify-content: space-between;
 }
 
+.article_top h2{
+    color: #414342;
+    font-size: 30px;
+}
+
+.article_top p{
+    color: black;
+}
+
 #boy_pic{
     height: 300px;
 }
@@ -99,6 +108,7 @@ h4{
 .article_top p{
     width:650px;
     text-align: justify;
+    color: #414342;
 }
 
 #reseaux{
@@ -142,6 +152,31 @@ h4{
 
 #grille p{
     font-size: 13px;
+    color: #414342;
+    text-align: justify;
+}
+
+#gridpropos{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 30px;
+    width: 1100px;
+}
+
+#gridpropos h2{
+    color: indigo;
+}
+
+#gridpropos p{
+    color: #414342;
+}
+
+#propos p{
+    color: #414342;
+}
+
+#img_propos{
+    object-fit: contain;
 }
 
 #grille img{
@@ -207,9 +242,21 @@ article h4{
     font-size: 24px;
 }
 
+#blog_page_main p{
+    color: #414342;
+}
+
 #about_blog_page{
     display: flex;
     justify-content: space-between;
+}
+
+#about_blog_page{
+    font-family: 'Montserrat', sans-serif;
+}
+
+#about_blog_page p{
+    font-size: 13px;
 }
 
 #about_blog_page article{
