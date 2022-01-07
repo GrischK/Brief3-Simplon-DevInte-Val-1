@@ -392,3 +392,27 @@ margin-top: 50px;
 .cvpage_flexdiv h3{
     font-size: 16px;
 }
+
+.reseaux{
+    width: 650px;
+}
+
+.reseaux ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    padding: 0;
+}
+
+.reseaux img{
+    width: 200px;
+}
+
+.reseaux li{
+    padding-left: 0;
+    padding-right: 20px;
+}
+
+.reseaux li:nth-last-child(1){
+    padding-right: 0px;
+}
