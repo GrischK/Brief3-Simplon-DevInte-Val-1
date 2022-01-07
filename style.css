@@ -80,6 +80,9 @@ h4{
     margin: 0 auto;
     justify-content: space-between;
 }
+.article_top h2{
+    font-size: 30px;
+}
 
 #boy_pic{
     height: 300px;
@@ -131,6 +134,7 @@ h4{
 
 #grille p{
     font-size: 13px;
+    color: black;
 }
 
 #gridpropos{
@@ -140,8 +144,16 @@ h4{
     width: 1100px;
 }
 
-#grille h2{
+#gridpropos h2{
     color: indigo;
+}
+
+#gridpropos p{
+    color: black;
+}
+
+#propos p{
+    color: black;
 }
 
 #img_propos{
