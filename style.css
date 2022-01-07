@@ -345,10 +345,6 @@ input:focus {
     color: #414342;
 }
 
-#squedrong_team{
-    margin-bottom: 300px;
-}
-
 #cv_grid p{
     width: 650px;
 }
@@ -369,4 +365,19 @@ margin-top: 50px;
     display: flex;
     justify-content: space-between;
     margin-bottom: 100px;
+}
+
+.cv_article_bottom{
+    display: flex;
+    width: 1100px;
+    margin: 0 auto;
+    justify-content: space-between;
+    margin-bottom: 300px;
+}
+
+.cv_article_bottom p{
+    width:650px;
+    text-align: justify;
+    color: #414342;
+    padding-top: 20px;
 }
