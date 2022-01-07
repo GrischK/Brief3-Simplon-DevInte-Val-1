@@ -253,12 +253,33 @@ article h4{
 }
 
 form{
+    padding: 100px;
     margin: 0 auto;
-    width: 400px;
+    width: 500px;
 }
 
 label{
     font-family: 'Montserrat', sans-serif;
     color: indigo;
     font-weight: bold;
+}
+
+#button {
+    font-family: 'Montserrat', sans-serif;
+    width: 120px;
+    height: 30px;
+    color: indigo;
+    background-color: #FFFFFF;
+    float: right;
+}
+
+textarea{
+    background-color: lightgray;
+    height: 200px;
+    width: 495px;
+}
+
+input{
+    background-color: lightgray;
+    width: 495px;
 }
