@@ -149,3 +149,27 @@ article h4{
     display: flex;
     justify-content: end;
 }
+
+#blog_main_pic{
+    object-fit: contain;
+    width: 1100px;
+}
+
+#blog_page_main p{
+    text-align: justify;
+}
+
+#blog_page_main h2{
+    color: indigo;
+    font-size: 20px;
+}
+
+#blog_page_main h3{
+    color: indigo;
+    font-size: 16px;
+}
+
+#blog_page_main h4{
+    color: #D05270;
+    font-size: 24px;
+}
