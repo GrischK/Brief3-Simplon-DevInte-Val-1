@@ -68,7 +68,7 @@ a:visited{
 }
 
 a:hover{
-    font-weight:bold;
+    font-weight: bolder;
 }
 
 main{
@@ -100,10 +100,6 @@ h4{
 .article_top h2{
     color: #414342;
     font-size: 30px;
-}
-
-.article_top p{
-    color: black;
 }
 
 #boy_pic{
@@ -287,31 +283,54 @@ label{
     font-family: 'Montserrat', sans-serif;
     color: indigo;
     font-weight: bold;
+    margin-top: 35px;
+    display: block;
 }
 
 #button {
     font-family: 'Montserrat', sans-serif;
     width: 120px;
     height: 30px;
-    color: indigo;
+    color: #D05270;
+    font-weight: bold;
     background-color: #FFFFFF;
     float: right;
+    border: 1px solid #414342;
+    margin-top: 35px;
 }
 
 textarea{
-    background-color: lightgray;
+    background-color: white;
     height: 200px;
     width: 495px;
+    border: 1px solid #414342;
+    resize: none;
+    margin-top: 5px;
+    font-family: 'Montserrat', sans-serif;
+    color: #414342;
 }
 
 input{
-    background-color: lightgray;
+    background-color: white;
     width: 495px;
+    border: 1px solid #414342;
+    margin-top: 5px;
+    font-family: 'Montserrat', sans-serif;  
+    font-size: 16px;
+    color: #414342;
+}
+
+form{
+    margin-bottom: 300px;
 }
 
 .title_colors{
     color: indigo;
 }
+
+input:focus {
+    color: #414342;
+  }
 
 #apropos_grid{
     font-family: 'Montserrat', sans-serif;
