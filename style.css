@@ -381,3 +381,11 @@ margin-top: 50px;
     color: #414342;
     padding-top: 20px;
 }
+
+#grille a{
+    color: #D05270;
+}
+
+.cvpage_flexdiv h3{
+    font-size: 16px;
+}
