@@ -288,8 +288,6 @@ article h4{
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 30px;
     width: 1100px;
-    padding-bottom: 300px;
-    margin-top: 100px;
 }
 
 #apropos_grid p{
