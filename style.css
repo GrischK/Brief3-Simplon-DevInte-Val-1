@@ -348,3 +348,25 @@ input:focus {
 #squedrong_team{
     margin-bottom: 300px;
 }
+
+#cv_grid p{
+    width: 650px;
+}
+
+#cv_grid{
+margin-top: 50px;
+}
+
+#squedrong_team h2{
+    margin-top: 50px;
+}
+
+.dev_pic{
+    width: 350px;
+}
+
+.cvpage_flexdiv{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 100px;
+}
