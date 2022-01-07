@@ -57,6 +57,7 @@ a{
 
 #purple_nav_link{
     color: indigo;
+    font-weight: bold;
 }
 
 a:visited{
