@@ -80,7 +80,7 @@ h4{
     margin: 0 auto;
     justify-content: space-between;
 }
-<<<<<<< HEAD
+
 .article_top h2{
     color: #414342;
     font-size: 30px;
@@ -89,8 +89,6 @@ h4{
 .article_top p{
     color: black;
 }
-=======
->>>>>>> e9c765a445dd571669083342d2a53ff9496ee9ed
 
 #boy_pic{
     height: 300px;
@@ -143,7 +141,6 @@ h4{
 
 #grille p{
     font-size: 13px;
-<<<<<<< HEAD
     color: #414342;
     text-align: justify;
 }
@@ -169,8 +166,6 @@ h4{
 
 #img_propos{
     object-fit: contain;
-=======
->>>>>>> e9c765a445dd571669083342d2a53ff9496ee9ed
 }
 
 p{
