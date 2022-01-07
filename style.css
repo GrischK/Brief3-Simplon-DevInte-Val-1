@@ -6,6 +6,14 @@ header{
     justify-content: space-between;
 }
 
+h1{
+    font-family: 'Abril Fatface', cursive;
+}
+
+h2, h3, p{
+    font-family: 'Montserrat', sans-serif;
+}
+
 header ul{
     display: flex;
     list-style: none;
@@ -182,3 +190,4 @@ article h4{
 #about_blog_page article{
     width: 650px;
 }
+
