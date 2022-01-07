@@ -29,6 +29,17 @@ header ul{
     height: 100%;
 }
 
+#image_page{
+    object-fit: cover;
+    height: 800px;
+    width: 1100px;
+}
+
+#image_page img{
+    height: 200px; 
+    background-size: contain;
+}
+
 li{
     padding-left: 10px;
     color: gray;
@@ -133,6 +144,12 @@ h4{
     font-size: 13px;
 }
 
+#grille img{
+    object-fit: cover;
+    height: 400px;
+    width: 535px;
+}
+
 p{
     color:gray;
 }
@@ -159,12 +176,6 @@ article em{
 article h4{
     color:#D05270 ;
     font-style: normal;
-}
-
-#grille img{
-    object-fit: cover;
-    height: 400px;
-    width: 535px;
 }
 
 .right_position_grid_pic{
@@ -203,4 +214,8 @@ article h4{
 
 #about_blog_page article{
     width: 650px;
+}
+
+#titre_colors h2{
+    color: indigo;
 }
