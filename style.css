@@ -173,3 +173,12 @@ article h4{
     color: #D05270;
     font-size: 24px;
 }
+
+#about_blog_page{
+    display: flex;
+    justify-content: space-between;
+}
+
+#about_blog_page article{
+    width: 650px;
+}
