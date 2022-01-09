@@ -96,6 +96,7 @@ h4{
     width: 1100px;
     margin: 0 auto;
     justify-content: space-between;
+    margin-top: 50px;
 }
 
 .article_top h2{
@@ -170,6 +171,7 @@ h4{
 
 #gridpropos h2{
     color: indigo;
+    margin-top: 50px;
 }
 
 #gridpropos p{
@@ -180,8 +182,16 @@ h4{
     color: #414342;
 }
 
+#article_propos h1{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
 #img_propos{
-    object-fit: contain;
+    object-fit: cover;
+    margin-top: 50px;
+    width: 1100px;
+    height: 500px;
 }
 
 #grille img{
@@ -233,14 +243,23 @@ article h4{
     text-align: justify;
 }
 
+#blog_page_main h1{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
 #blog_page_main h2{
     color: indigo;
     font-size: 20px;
+    margin-top: 60px;
+    margin-bottom: 60px;
 }
 
 #blog_page_main h3{
     color: indigo;
     font-size: 16px;
+    margin-top: 60px;
+    margin-bottom: 60px;
 }
 
 #blog_page_main h4{
@@ -259,6 +278,8 @@ article h4{
 #about_blog_page{
     display: flex;
     justify-content: space-between;
+    margin-top: 60px;
+    margin-bottom: 300px;
 }
 
 #about_blog_page{
@@ -266,7 +287,7 @@ article h4{
 }
 
 #about_blog_page p{
-    font-size: 13px;
+    font-size: 13px;    
 }
 
 #about_blog_page article{
