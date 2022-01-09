@@ -437,3 +437,7 @@ margin-top: 50px;
 .reseaux li:nth-last-child(1){
     padding-right: 0px;
 }
+
+.dev_pic{
+    border-radius: 100%;
+}
