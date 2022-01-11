@@ -57,10 +57,10 @@
                     <label for="nameusername">Nom, prénom</label>
                     <input type="text"  id="nameusername" name="name" required="required">
                     <label for="mail">Adresse email</label>
-                    <input type="email" id="mail" name="mail" required="required">
+                    <input type="email" id="mail" name="mail" required="required" pattern="[a-zA-Z0-9._-]+@[a-zA-Z0-9._-]+.[a-zA-Z.]{2,15}">
                     <label for="msg">Message</label>
-                    <textarea name="msg" id="msg"></textarea>
-                    <input type="submit" value="Envoyer" id="button" required="required" pattern="[a-zA-Z0-9._-]+@[a-zA-Z0-9._-]+.[a-zA-Z.]{2,15}" onClick="confirmsend()">
+                    <textarea name="msg" id="msg" required="required"></textarea>
+                    <input type="submit" value="Envoyer" id="button" onClick="confirmsend()">
                 </form>
                 <script>
                     function confirmsend() {
