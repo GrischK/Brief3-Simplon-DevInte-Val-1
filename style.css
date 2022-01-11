@@ -304,7 +304,7 @@ form{
 
 label{
     font-family: 'Montserrat', sans-serif;
-    color: indigo;
+    color: #D05270;
     font-weight: bold;
     margin-top: 35px;
     display: block;
@@ -314,11 +314,11 @@ label{
     font-family: 'Montserrat', sans-serif;
     width: 120px;
     height: 30px;
-    color: #D05270;
+    color: purple;
     font-weight: bold;
     background-color: #FFFFFF;
     float: right;
-    border: 1px solid #414342;
+    border: 1px solid black;
     margin-top: 35px;
 }
 
@@ -326,8 +326,8 @@ textarea{
     background-color: white;
     height: 200px;
     width: 495px;
-    border: 1px solid #414342;
-    box-shadow: 1px 1px 1px indigo;
+    border: 1px solid black;
+    box-shadow: 1px 1px 1px gray;
     resize: none;
     margin-top: 5px;
     font-family: 'Montserrat', sans-serif;
@@ -337,12 +337,12 @@ textarea{
 input{
     background-color: white;
     width: 495px;
-    border: 1px solid #414342;
-    box-shadow: 1px 1px 1px indigo;
+    border: 1px solid gray;
+    box-shadow: 1px 1px 1px black;
     margin-top: 5px;
     font-family: 'Montserrat', sans-serif;  
     font-size: 16px;
-    color: #414342;
+    color: gray;
 }
 
 form{
