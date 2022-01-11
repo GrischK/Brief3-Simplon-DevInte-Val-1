@@ -55,12 +55,12 @@
             </article>
                 <form method="post" id="form_contact">
                     <label for="nameusername">Nom, prénom</label>
-                    <input type="text"  id="nameusername" name="name">
+                    <input type="text"  id="nameusername" name="name" required="required">
                     <label for="mail">Adresse email</label>
-                    <input type="email" id="mail" name="mail">
+                    <input type="email" id="mail" name="mail" required="required">
                     <label for="msg">Message</label>
                     <textarea name="msg" id="msg"></textarea>
-                    <input type="submit" value="Envoyer" id="button" onClick="confirmsend()">
+                    <input type="submit" value="Envoyer" id="button" required="required" pattern="[a-zA-Z0-9._-]+@[a-zA-Z0-9._-]+.[a-zA-Z.]{2,15}" onClick="confirmsend()">
                 </form>
                 <script>
                     function confirmsend() {

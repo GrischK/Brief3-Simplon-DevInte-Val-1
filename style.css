@@ -447,3 +447,7 @@ margin-top: 50px;
 .dev_pic{
     border-radius: 100%;
 }
+
+input, textarea:focus {
+    color: #D05270;
+  }
