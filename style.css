@@ -300,6 +300,7 @@ article h4{
 form{
     padding: 100px;
     margin: 0 auto;
+    margin-bottom: 300px;
     width: 500px;
 }
 
@@ -307,6 +308,7 @@ label{
     font-family: 'Montserrat', sans-serif;
     color: #D05270;
     font-weight: bold;
+    margin: 15px auto;
     margin-top: 35px;
     display: block;
 }
@@ -344,10 +346,6 @@ input{
     font-family: 'Montserrat', sans-serif;  
     font-size: 16px;
     color: gray;
-}
-
-form{
-    margin-bottom: 300px;
 }
 
 .title_colors{
