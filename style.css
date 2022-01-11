@@ -390,7 +390,12 @@ margin-top: 50px;
 .cvpage_flexdiv{
     display: flex;
     justify-content: space-between;
+    align-items: center;
     margin-bottom: 100px;
+}
+
+.cvpage_flexdiv h3{
+    text-align: center;
 }
 
 .cv_article_bottom{
