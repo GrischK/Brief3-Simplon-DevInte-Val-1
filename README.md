@@ -65,7 +65,7 @@ Le client nous laisse libre de réaliser les pages "À propos" et "Contact" comm
 2. Création de tableau Trello pour la gestion de projet
 3. Répartition des tâches
 4. Structuration des maquettes avec les balises HTML
-5. Maquettage des pages **Contact** et **A propos**
+5. Maquettage des pages **Contact**, **A propos** et **CV**
 6. Codages des 4 pages HTML selon la structure pré-établie dans les maquettes:
 	- **Accueil**
 	- **Post**
@@ -76,6 +76,7 @@ Le client nous laisse libre de réaliser les pages "À propos" et "Contact" comm
 	- **Post**
 	- **Contact**
 	- **A propos**
+	- **CV**
 7. Tests de fonctionnalité
 
 ## Répartition des tâches
