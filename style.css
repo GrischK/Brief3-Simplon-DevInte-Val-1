@@ -70,6 +70,7 @@ a:visited{
 
 a:hover{
     font-weight: bolder;
+    color: indigo;
 }
 
 main{
