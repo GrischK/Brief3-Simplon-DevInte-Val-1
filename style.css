@@ -448,6 +448,10 @@ margin-top: 50px;
     border-radius: 100%;
 }
 
-input, textarea:focus {
+textarea:focus {
     color: #D05270;
   }
+
+input:focus {
+    color: #D05270;
+} 
