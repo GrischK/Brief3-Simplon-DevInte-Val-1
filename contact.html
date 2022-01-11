@@ -60,8 +60,16 @@
                     <input type="email" id="mail" name="mail">
                     <label for="msg">Message</label>
                     <textarea name="msg" id="msg"></textarea>
-                    <input type="button" value="Envoyer" id="button">
+                    <input type="submit" value="Envoyer" id="button" onClick="confirmsend()">
                 </form>
+                <script>
+                    function confirmsend() {
+                      alert("Squedrong a bien reçu votre message");
+                      {
+                        formulaire.submit();
+                      }
+                    }
+                  </script>
         </main>
     </body>
 </html>

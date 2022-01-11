@@ -321,16 +321,17 @@ label{
     font-weight: bold;
     background-color: #FFFFFF;
     float: right;
-    border: 1px solid black;
+    border: 1px solid gray;
     margin-top: 35px;
+    cursor: pointer;
 }
 
 textarea{
     background-color: white;
     height: 200px;
     width: 495px;
-    border: 1px solid black;
-    box-shadow: 1px 1px 1px gray;
+    border: 1px solid gray;
+    box-shadow: 1px 1px 1px black;
     resize: none;
     margin-top: 5px;
     font-family: 'Montserrat', sans-serif;
